@@ -33,7 +33,7 @@ This is available on rubygems.org.  To use it, add this line to your application
 
     gem 'govuk_template'
 
-And then execute:
+Then execute:
 
     $ bundle
 
